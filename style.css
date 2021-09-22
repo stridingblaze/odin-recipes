@@ -1,0 +1,22 @@
+#main-body {
+    background-color: cornflowerblue;
+}
+
+.title {
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+#pas-body {
+    background-color: cyan;
+}
+
